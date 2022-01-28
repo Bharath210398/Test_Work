@@ -1,0 +1,10 @@
+name: Shell
+
+on:[push]
+
+jobs:
+  run-shell-command:
+    steps: 
+      - name: echo a string
+      String
+  
